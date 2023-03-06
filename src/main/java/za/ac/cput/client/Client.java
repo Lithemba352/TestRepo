@@ -1,4 +1,4 @@
-package za.ac.cput.domain.client;
+package za.ac.cput.client;
 
 import java.net.Socket;
 
